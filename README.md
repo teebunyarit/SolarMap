@@ -13,7 +13,6 @@ I and Nuttamon had worked on this project with guidance from Associate Professor
 </p>
 
 This repository is composed of the following folders
-- **data**
-- **Data_preparetion**
-- **Model_training**
+- **Data_preparetion** 
+- **Model_training** 
 - **Data_visualization**
