@@ -16,8 +16,8 @@ The <code>Data_preparation</code> folders are utilized for downloading data, cle
   - A output file is <code>clear_sky.csv</code>
 
 - The <code>Dataset_Cleaning_and_Creation.ipynb</code> file is used to clean and create dataset for training process.
-  - Input files are <code>clearsky_data.csv</code>, <code>ims.csv</code>, <code>ims_cleaned.csv</code>, <code>ci_cloudmask.csv</code> (or <code>ci_overview_chred.csv</code>)
-  - Output files are
+  - Input files are <code>clearsky_data.csv</code>, <code>ims.csv</code>, <code>ims_cleaned.csv</code>, <code>ci_cloudmask.csv</code> (or <code>ci_overview_chred.csv</code>), <code>ihat_only_modelv2.csv</code> and <code>ihat_only_modelv1.csv</code>
+  - Output files are <code>DATASET_cloudmask.csv</code>, <code>ims_cleaned.csv</code>, <code>ihat_modelv1.csv</code> and <code>ihat_modelv2.csv</code>
 
 - The <code>split_dataset.ipynb</code> file is used to separate dataset into three paths base on clear sky index
 
