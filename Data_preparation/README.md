@@ -7,7 +7,7 @@ The <code>Data_preparation</code> folders are utilized for downloading data, cle
   - Input files are measurement irradiance files, <code>plant_metadata.csv</code>
   - Output files are
   
-- The <code>cloudindex_file_creation.ipynb</code> file is used to extract cloud index from cloud images.
+- The <code>cloudindex_file_creation.ipynb</code> file is used to clean cloud images and extract the cloud index from them.
   - Input files are cloud images and <code>plant_metadata.csv</code>
   - Output files are <code>ci_cloudmask.csv</code> and <code>ci_overview_chred.csv</code>
 
@@ -16,7 +16,7 @@ The <code>Data_preparation</code> folders are utilized for downloading data, cle
   - A output file is <code>clear_sky.csv</code>
 
 - The <code>Dataset_Cleaning_and_Creation.ipynb</code> file is used to clean and create dataset for training process.
-  - Input files are 
+  - Input files are <code>clearsky_data.csv</code>, <code>ims.csv</code>, <code>ims_cleaned.csv</code>, <code>ci_cloudmask.csv</code> (or <code>ci_overview_chred.csv</code>)
   - Output files are
 
 - The <code>split_dataset.ipynb</code> file is used to separate dataset into three paths base on clear sky index
