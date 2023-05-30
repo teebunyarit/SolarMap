@@ -4,8 +4,8 @@ The <code>Data_preparation</code> folders are utilized for downloading data, cle
   - Output files are <code>check_avaiable_cloudmask.csv</code> and <code>check_avaiable_overview_chred.csv</code>
  
 - The <code>Irradiance_file_creation.ipynb</code> file is used to download estimation irradiance data and aggregrate measurement irradiance files into a single file.
-  - Input files are measurement irradiance files, <code>plant_metadata.csv</code>
-  - Output files are
+  - Input files are **measurement irradiance** files, <code>plant_metadata.csv</code>
+  - Output files are <code>ihat_only_modelv1.csv</code>, <code>ihat_only_modelv2.csv</code> and <code>ims.csv</code>
   
 - The <code>cloudindex_file_creation.ipynb</code> file is used to clean cloud images and extract the cloud index from them.
   - Input files are cloud images and <code>plant_metadata.csv</code>
