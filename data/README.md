@@ -1,3 +1,5 @@
+Tree view of the <code>data</code> folder displays below:
+
 ``` bash
         data
         ├───check_available_cloud_images
