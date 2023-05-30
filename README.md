@@ -16,4 +16,4 @@ This repository is composed of the following folders
 - **data**
 - **Data_preparetion**
 - **Model_training**
-- **visualization**
+- **Data_visualization**
