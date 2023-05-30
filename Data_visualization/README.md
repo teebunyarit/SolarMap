@@ -1,1 +1,2 @@
-<code> visualize.ipynb </code> is used to display various graphs and results.
+
+The <code>visualize.ipynb'</code> file is used for data and results visualization.
