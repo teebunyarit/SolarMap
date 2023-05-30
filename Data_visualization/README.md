@@ -5,6 +5,6 @@ The input data consists of the <code>clearsky_data.csv</code>, <code>ims.csv</co
 
 An example figure:
 <p align="center">
-  <img src="https://github.com/teebunyarit/SolarMap/assets/113121308/f176a0d8-b9c9-4dea-8349-d222a21f4560" width="800" height="400" />
+  <img src='https://user-images.githubusercontent.com/109018380/241970762-58db143b-406e-40b0-8218-a817ff2a41d3.png' width="800" height="400" />
 </p>
 
