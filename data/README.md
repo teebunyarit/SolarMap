@@ -1,4 +1,4 @@
-'''bash
+``` bash
         data
         ├───check_available_cloud_images
         │       check_avaiable_cloudmask.csv
@@ -55,4 +55,4 @@
                 DATASET_cloudmask.csv
                 separated_DATASET_ch1_overview.csv
                 separated_DATASET_cloudmask.csv
-'''
+```
