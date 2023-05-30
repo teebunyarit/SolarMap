@@ -6,5 +6,5 @@ The <code>Data_preparation</code> folders are utilized for downloading data, cle
 - The <code>Dataset_Cleaning_and_Creation.ipynb</code> file is used to clean and create dataset for training process.
 - The <code>split_dataset.ipynb</code> file is used to separate dataset into three paths base on clear sky index
 
-The <code>clearskycal.py<\code> file in the CUEESolar folder is module which calculating clear sky data.
+The <code>clearskycal.py</code> file in the <code>CUEESolar</code> folder is module which calculating clear sky data.
 
