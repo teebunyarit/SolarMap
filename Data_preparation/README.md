@@ -11,7 +11,7 @@ The <code>Data_preparation</code> folders are utilized for downloading data, cle
   - Input files are cloud images and <code>plant_metadata.csv</code>
   - Output files are <code>ci_cloudmask.csv</code> and <code>ci_overview_chred.csv</code>
 
-- The <code>generate_clearsky_variable.ipynb</code> file is used to generate clear sky data: clear-sky irradiance, airmass and zaeith angle
+- The <code>generate_clearsky_variable.ipynb</code> file is used to generate clear sky data: clear-sky irradiance, airmass and zeith angle
   - A input file is <code>plant_metadata.csv</code>
   - A output file is <code>clear_sky.csv</code>
 
