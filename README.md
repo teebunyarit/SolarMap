@@ -12,7 +12,7 @@ This repository is created for version control of our senior project in `2102499
   <img src="https://github.com/teebunyarit/SolarMap/assets/113121308/f176a0d8-b9c9-4dea-8349-d222a21f4560" width="720" height="350" />
 </p>
 
-The best-proposed model is a convolutional neural network (CNN) model in which the least mean absolute error. There are 2 types of the structure of CNN model which is 'Cloud2K' model and 'Cloud2I' model. 'Cloud2K' model is the model mapping to clear-sky index which have 4 sub-structure and Cloud2I' model is the model mapping to estimated irradiance which have 3 sub-structure. The sturcture of CNN models are shown below.
+The best-proposed model is a convolutional neural network (CNN) model in which the least mean absolute error. There are 2 types of the structure of CNN models which are 'Cloud2K' model and 'Cloud2I' model. 'Cloud2K' model is the model mapping to clear-sky index which have 4 sub-structures and Cloud2I' model is the model mapping to estimated irradiance which have 3 sub-structures. The sturcture of CNN models are shown below.
 <p align="center">
   <img src="https://github.com/teebunyarit/SolarMap/assets/113121308/74981871-5d7a-4d72-b8f2-62a6deea9a32" width="650" height="400" />
 </p>
