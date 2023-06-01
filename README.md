@@ -21,6 +21,6 @@ This repository is composed of the following folders
 - **Data_preparetion** are utilized for downloading data, cleaning it, and generating datasets.
 - **Model_training** contains training code for the Cloud Attenuation model. There are three groups in total: Regression, Tree-based, and CNNs models.
 - **Data_visualization** is used for data and results visualization.
-- **DataAndResult** 
+- **DataAndResult** store the CSV files used in this project.
 
 
