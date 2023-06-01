@@ -4,11 +4,11 @@ Tree view of the <code>data</code> folder displays below:
 DataAndResult
 │   README.md
 │
-├───check_available_cloud_images
+├───check_available_cloud_images # missing cloud images checking
 │       check_avaiable_cloudmask.csv
 │       check_avaiable_overview_chred.csv
 │
-├───cloud_images
+├───cloud_images # for extracting cloud index
 │   ├───cloudmask
 │   │       himawari_ahi_ir_cloud_day_202205020500.tif
 │   │       himawari_ahi_ir_cloud_day_202206160500.tif
@@ -21,26 +21,26 @@ DataAndResult
 │           himawari_ahi_overview_202302040300.tif
 │           himawari_ahi_overview_302206030400.tif
 │
-├───cloud_index
+├───cloud_index # cloud index file
 │       ci_cloudmask.csv
 │       ci_overview_chred.csv
 │
-├───data_model_training_lag10
+├───data_model_training_lag10 # for training CNN
 │       Attribute_lag10dataset_2layers.csv
 │       Image_lag10dataset_2layers.csv
 │
-├───data_model_training_lag30
+├───data_model_training_lag30 # for training CNN
 │       Attribute_dataset_1layer.csv
 │       Attribute_dataset_2layers.csv
 │       Image_dataset_1layer.csv
 │       Image_dataset_2layers.csv
 │
-├───epoch_cloud2I
+├───epoch_cloud2I # for visualizing validation loss versus epoch of Cloud2I model
 │       hisc2Iv1.csv
 │       hisc2Iv2.csv
 │       hisc2Iv3.csv
 │
-├───estimation_irradiance
+├───estimation_irradiance 
 │       Ihat_1layerCNN.csv
 │       Ihat_2layerCNN.csv
 │       Ihat_cmRegress.csv
@@ -69,7 +69,7 @@ DataAndResult
 │       RF_5-fold_crossvalidation_result.csv
 │       XGB_5-fold_crossvalidation_result.csv
 │
-├───irradiance
+├───irradiance 
 │       clearsky_data.csv
 │       ims.csv
 │       ims_cleaned.csv
@@ -78,7 +78,7 @@ DataAndResult
 │       plant_metadata.csv
 │       plant_metadata_tiff_index.csv
 │
-├───training_data
+├───training_data # for training Regression and Tree-based model
 │       DATASET_cloudmask.csv
 │       separated_DATASET_ch1_overview.csv
 │       separated_DATASET_cloudmask.csv
