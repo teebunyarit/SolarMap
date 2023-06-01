@@ -1,4 +1,4 @@
-This folder contains training code for the Cloud Attenuation model. There are three groups in total: Regression, Tree-based, and CNNs models.  
+This folder contains training code for the Cloud Attenuation model. There are three groups in total: Regression, Tree-based, and CNNs models.   
  the datasets "separated_DATASET_cloudmask.csv" and "separated_DATASET_cloudmask.csv" were split into training and testing sets. The splitting ratio used was 80% first for training and the remaining 20% for testing.  
  
 1. **Regression model** : The <code>Regression_model.ipynb</code> file contains training code for linear and polynomial regression models.  
