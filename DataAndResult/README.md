@@ -1,10 +1,25 @@
 Tree view of the <code>data</code> folder displays below:
 
 ``` bash
-data
+DataAndResult
+│   README.md
+│
 ├───check_available_cloud_images
 │       check_avaiable_cloudmask.csv
 │       check_avaiable_overview_chred.csv
+│
+├───cloud_images
+│   ├───cloudmask
+│   │       himawari_ahi_ir_cloud_day_202205020500.tif
+│   │       himawari_ahi_ir_cloud_day_202206160500.tif
+│   │       himawari_ahi_ir_cloud_day_202302040300.tif
+│   │       himawari_ahi_ir_cloud_day_302206030400.tif
+│   │
+│   └───overview
+│           himawari_ahi_overview_202205020500.tif
+│           himawari_ahi_overview_202206160500.tif
+│           himawari_ahi_overview_202302040300.tif
+│           himawari_ahi_overview_302206030400.tif
 │
 ├───cloud_index
 │       ci_cloudmask.csv
@@ -334,5 +349,4 @@ data
         056-20220923-20221112.csv
         056-20221023-20230205.csv
         056-20230206-20230430.csv
-
 ```
