@@ -8,3 +8,12 @@ An example figure:
   <img src='https://user-images.githubusercontent.com/109018380/241970762-58db143b-406e-40b0-8218-a817ff2a41d3.png' width="800" height="400" />
 </p>
 
+An example of the clear-sky days. the graph plot between acture irradiance and estimated irradiance (from Cloud2Iv2 model)
+<p align="center">
+  <img src='https://github.com/teebunyarit/SolarMap/assets/113121308/0f14a5df-5418-436b-b6dc-bfa792e173b6' width="800" height="400" />
+</p>
+
+The scatter plot between Acture irradiance and estimated irradiance (from the proposed model : Cloud2Iv2)
+<p align="center">
+  <img src='https://github.com/teebunyarit/SolarMap/assets/113121308/989e6093-6ea8-4155-b9f0-df64c1d15eb7' width="750" height="250" />
+</p>
